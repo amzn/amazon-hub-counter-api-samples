@@ -24,7 +24,7 @@ This is a sample application that shows how to use the **amazon-hub-counter-sdk*
 
 #### Sample output
 ```
-% java -jar amazon-hub-counter-cli
+% java -jar amazon-hub-counter-cli-1.0-jar-with-dependencies.jar
 06 Aug 2019 12:26:28.966/UTC [INFO ] - Loading configuration file...
 06 Aug 2019 12:26:29.237/UTC [INFO ] - Configuration loaded.
 06 Aug 2019 12:26:29.244/UTC [INFO ] - Loading API configuration file...
@@ -43,7 +43,7 @@ Process finished with exit code 0
 
 #### Sample output with errors
 ```
-% java -jar amazon-hub-counter-cli
+% java -jar amazon-hub-counter-cli-1.0-jar-with-dependencies.jar
 06 Aug 2019 12:28:46.285/UTC [INFO ] - Loading configuration file...
 06 Aug 2019 12:28:46.431/UTC [INFO ] - Configuration loaded.
 06 Aug 2019 12:28:46.454/UTC [INFO ] - Loading API configuration file...
