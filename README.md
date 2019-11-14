@@ -1,13 +1,10 @@
-## My Project
+## Amazon Hub Counter API code samples
+This repository contains code samples in various languages to create, update, and get
+processing of feeds. Feeds are created to create and update Access Points of
+the Amazon Hub Counter program.
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Before using this code you must have completed the Partner Onboarding process.
 
 ## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+This sample code is made available under the MIT-0 License. See the LICENSE
+file.
